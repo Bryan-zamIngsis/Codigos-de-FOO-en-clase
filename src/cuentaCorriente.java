@@ -1,7 +1,8 @@
 
 public class cuentaCorriente {
 	
-	    private double saldo;
+	    public static int contador;
+		double saldo;
 	    
 	    public double getSaldo() {
 	    	return saldo;
@@ -17,6 +18,11 @@ public class cuentaCorriente {
 	}
 
 	public void depositar(int dinero) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void sumarContador() {
 		// TODO Auto-generated method stub
 		
 	}

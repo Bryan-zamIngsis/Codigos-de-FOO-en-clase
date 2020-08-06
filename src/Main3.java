@@ -10,11 +10,11 @@ public class Main3 {
 		*/
 		
 		
-	punto pt1 = new punto();
+	Punto pt1 = new Punto();
 	pt1.x = 1;
 	pt1.y = 2;
 	
-	punto pt2 = new punto();
+	Punto pt2 = new Punto();
 	pt1.x = 10;
 	pt1.y = 5;
 
