@@ -1,0 +1,17 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+
+/**
+ *
+ * @author famil
+ */
+public class Gato extends Felino {
+    public void sonido() {
+		super.sonido();
+		System.out.println("Sonido de gato...");
+	}
+}
